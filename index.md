@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-## Welcome to my site!
+## Welcome to my online porfolio!
 
 
 #### Here are some example pages:
